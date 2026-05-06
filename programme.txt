@@ -1,1 +1,7 @@
-# jsp
+•#Ce qu'il faut faire
+* Ajouter des fichiers
+* Modifier des fichers
+* Voir l'historique
+* Ne pas avoir peur des merge et des rebase
+* ajout d'utilsateurs ?
+* supprimer des commits ?
