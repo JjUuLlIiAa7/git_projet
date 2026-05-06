@@ -5,3 +5,9 @@ Un jour d'inventer l'école
 5 C'est ce sacré Charlemagne
 
 7 Sacré Charlemagne
+
+#Ce qu'il faut faire
+* Ajouter et modifier des fichiers
+* ajouter d'autres personnes au projet ?
+* Voir l'historique
+* Ne pas avoir peur des merge
