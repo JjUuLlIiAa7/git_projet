@@ -4,4 +4,4 @@
 * Voir l'historique
 * Ne pas avoir peur des merge et des rebase
 * ajout d'utilsateurs ?
-* supprimer des commits ?
+* supprimer des commits ???
